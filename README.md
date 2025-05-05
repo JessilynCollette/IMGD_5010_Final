@@ -1,4 +1,5 @@
 # Project Overview
+## Xin Zhang, Jessilyn Collette
 Our project is a series of p5.js sketches telling a story for each one of the four seasons (Summer, Autumn, Winter, Spring). The sketches are set to a lofi song that we feel represents the transition to each season very well. Each season has its own unique animations and color palattes that we carefully constructed to invoke the feeling you get when the weather starts to change.
 
 
